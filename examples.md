@@ -1,27 +1,34 @@
-# Examples for Doctoral-Level Proofreading
+# Examples
 
 ## Example 1
-**User Input:** 
+
+**User Input:**
 The results which were obtained, they show that the method it is effective, although it have some limitations. We can't ignore these problems for future plans.
 
 **Execution Output:**
-**Revised Text:**
-The obtained results demonstrate the method's effectiveness, although it presents certain limitations. These constraints must be addressed in future research.
+| Original | Revised | Rationale |
+| --- | --- | --- |
+| The results which were obtained, they show | The obtained results demonstrate | Removed redundancy; elevated vocabulary. |
+| the method it is effective | the method is effective | Corrected pronoun duplication. |
+| although it have | although it presents | Fixed subject-verb agreement. |
+| We can't ignore these problems | These constraints must be addressed | Removed contraction; enforced formal tone. |
+| future plans | future research | Corrected tautology. |
 
-**Key Corrections:**
-- **Grammar & Redundancy:** Removed the repetitive pronouns and redundant phrasing ("The results which were obtained, they show" -> "The obtained results demonstrate").
-- **Subject-Verb Agreement:** Corrected "it have" to "it presents".
-- **Tone & Fluency:** Replaced the informal contraction "can't" with "must be addressed," and elevated "future plans" to "future research" for academic precision.
+**Revised Text:**
+The obtained results demonstrate the method is effective, although it presents certain limitations. These constraints must be addressed in future research.
 
 ## Example 2
+
 **User Input:**
-This paper looks at how sleep affects memory. A lot of people don't get enough sleep and this is bad for remembering things in the short term and the long term. 
+This paper looks at how sleep affects memory. A lot of people don't get enough sleep and this is bad for remembering things in the short term and the long term.
 
 **Execution Output:**
-**Revised Text:**
-This paper investigates the impact of sleep on memory retention. A significant portion of the population experiences sleep deprivation, which adversely affects both short- and long-term memory recall.
+| Original | Revised | Rationale |
+| --- | --- | --- |
+| looks at how sleep affects | investigates the impact of sleep on | Applied academic phrasing. |
+| A lot of people don't get enough sleep | A significant portion of the population experiences sleep deprivation | Removed contraction; enhanced precision. |
+| this is bad for remembering things | which adversely affects memory recall | Improved academic tone. |
+| in the short term and the long term | in both short and long-term capacities | Enforced structural parallelism. |
 
-**Key Corrections:**
-- **Vocabulary:** Elevated colloquial phrasing ("looks at," "A lot of people," "is bad for remembering things") to formal academic terminology ("investigates," "A significant portion of the population," "adversely affects memory recall").
-- **Tone:** Removed the contraction "don't" and restructured the sentence to sound objective and authoritative.
-- **Parallelism:** Improved the phrasing of "the short term and the long term" to the more concise and parallel "short- and long-term memory recall."
+**Revised Text:**
+This paper investigates the impact of sleep on memory retention. A significant portion of the population experiences sleep deprivation, which adversely affects memory recall in both short and long-term capacities.
